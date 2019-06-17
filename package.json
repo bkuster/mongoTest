@@ -1,0 +1,23 @@
+{
+  "name": "mongotest",
+  "version": "1.0.0",
+  "description": "test of a mongo db",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkuster/mongoTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkuster/mongoTest/issues"
+  },
+  "homepage": "https://github.com/bkuster/mongoTest#readme",
+  "dependencies": {
+    "mongoose": "^5.6.0"
+  }
+}
